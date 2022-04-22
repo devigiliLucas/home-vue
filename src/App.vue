@@ -1,19 +1,19 @@
 <template>
   <main id="main">
     <div id="header">
-        <Header />
+      <Header />
     </div>
     <div id="banner">
-        <Banner />
+      <Banner />
     </div>
     <div id="content">
-        <Content />
+      <Content />
     </div>
     <div class="aside">
-        <Aside />
+      <Aside />
     </div>
     <div class="footer">
-        <Footer />
+      <Footer />
     </div>
   </main>
 </template>
@@ -33,7 +33,7 @@ export default defineComponent({
     Banner,
     Content,
     Aside,
-    Footer
+    Footer,
   },
 });
 </script>

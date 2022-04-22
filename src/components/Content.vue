@@ -49,9 +49,8 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-    name: 'ContentPage'
-})
-
+  name: "ContentPage",
+});
 </script>
 
 <style scoped>
